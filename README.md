@@ -1,23 +1,24 @@
 # Hi 👋, I'm Ankush
 ### A passionate graphics learner from India
 
-- 🔭 I’m currently working on **fixing my life**
-- 🌱 I’m currently learning **Vulkan, DOD, Rust, Modern C++, DSA**
-- 📫 How to reach me **ankush3411111@gmail.com**
+- I’m currently focusisng on **happiness**
+- I’m currently learning **to play flute, Vulkan, Rust, Shaders**
+- I'm active in **Shadertoy**.
+- I love to learn new things related to **art** or **technology**.
 
 ## Languages and Tools:
 
 #### I have shipped projects with:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,lua,css,html,js)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,zig,lua,python,css,html,js,svelte&perline=6)](https://go-skill-icons.vercel.app)
 
 #### I am learning:
 
-[![My Skills](https://skillicons.dev/icons?i=bash,godot,rust,svelte)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bash,godot,rust,odin,ocaml&perline=6)](https://go-skill-icons.vercel.app)
 
 #### I use:
 
-[![My Skills](https://skillicons.dev/icons?i=neovim,arch,linux,figma,git,github,gitlab,latex)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=neovim,arch,linux,figma,typst,freecad,blender,audacity,clion,davinci,desmos,zed&perline=6)](https://go-skill-icons.netlify.app)
 
 ## Stats:
 
