@@ -2,8 +2,8 @@
 ### A passionate graphics learner from India
 
 - I’m currently focusisng on **happiness**
-- I’m currently learning **to play flute, Vulkan, Rust, Shaders**
-- I'm active in **Shadertoy**.
+- I’m currently learning **to play flute, Guitar, Vulkan, Rust, Shaders**
+- I'm active in irl activities now.
 - I love to learn new things related to **art** or **technology**.
 
 ## Languages and Tools:
